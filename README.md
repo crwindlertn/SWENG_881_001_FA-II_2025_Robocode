@@ -96,26 +96,3 @@ Running Cucumber Tests
 
 Execute the Cucumber JUnit runner located in the test directory.
 
-Current Status
-
-Input Domain Modeling: Completed
-
-Graph-Based Testing: Completed
-
-Cucumber + JUnit Integration: Completed
-
-Initial tests: Many failing due to unimplemented robot logic (expected at this stage)
-
-Documentation: In progress for inclusion in the final report
-
-Planned Next Steps
-
-Implement radar detection and firing logic in the robot.
-
-Re-run domain and graph-based test suites to validate expected behavior.
-
-Integrate automated testing into a CI/CD pipeline (GitHub Actions).
-
-Expand BDD scenarios as implementation evolves.
-
-If you want, I can also tailor this README to match your exact repo structure or add a section describing your robot class specifically.
